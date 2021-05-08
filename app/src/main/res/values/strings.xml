@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ListWithCountTimer</string>
+    <string name="btn_start">Start</string>
+    <string name="enter_sec_hint">Enter Sec</string>
+    <string name="start_btn_text">START</string>
+    <string name="pause_btn_text">PAUSE</string>
+    <string name="resume_btn_text">RESUME</string>
+</resources>
